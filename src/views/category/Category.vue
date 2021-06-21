@@ -128,7 +128,6 @@
 
     .content {
         position: absolute;
-        left: 0;
         right: 0;
         top: 44px;
         bottom: 49px;
